@@ -5,7 +5,7 @@
 
 A summary data frame need to be created and it will contain the ride-sharing data by city type. Later on, the dataframe will be utilized to plot a multiple-line graph that shows the total weekly fares for each city type. This generated plot will be used to extract insights which can be used by decision-makers at PyBer.
 
-## Rsults
+## Results
 ---
 
 ![Capture 125](https://user-images.githubusercontent.com/59425631/127773492-2f5464fb-58fb-4d47-a258-e56211303d17.PNG)
